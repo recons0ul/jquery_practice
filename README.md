@@ -1,2 +1,2 @@
 # About the project
-Practice Jquery https://api.jquery.com/
+Practice jQuery https://api.jquery.com/
